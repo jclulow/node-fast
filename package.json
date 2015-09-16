@@ -4,11 +4,12 @@
         "Mike Harsch",
         "Nate Fitch",
         "Yunong Xiao",
-        "Patrick Mooney"
+        "Patrick Mooney",
+        "Joshua M. Clulow"
     ],
     "name": "fast",
     "homepage": "http://mcavage.github.com/node-fast",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "repository": {
         "type": "git",
         "url": "git://github.com/mcavage/node-fast.git"

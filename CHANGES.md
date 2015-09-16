@@ -1,5 +1,10 @@
 # node-fast Changelog
 
+## 0.5.0
+
+- Add profiling hooks triggered when message encoding and decoding starts and
+  stops
+
 ## 0.4.1
 
 - Update dtrace-provider to 0.3.0
